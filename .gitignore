@@ -14,3 +14,9 @@ env/
 
 # VS Code local settings
 .vscode/
+RAG/chroma_db/chroma.sqlite3
+RAG/Project_1_PDF_QA/chroma_db/chroma.sqlite3
+RAG/Project_1_PDF_QA/chroma_db/c0c1d649-9bd8-4dc4-bdc1-1f27ebc60647/data_level0.bin
+RAG/Project_1_PDF_QA/chroma_db/c0c1d649-9bd8-4dc4-bdc1-1f27ebc60647/header.bin
+RAG/Project_1_PDF_QA/chroma_db/c0c1d649-9bd8-4dc4-bdc1-1f27ebc60647/length.bin
+RAG/Project_1_PDF_QA/chroma_db/c0c1d649-9bd8-4dc4-bdc1-1f27ebc60647/link_lists.bin
